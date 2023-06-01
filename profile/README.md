@@ -12,3 +12,6 @@
 👩‍💻 Useful resources: The Teams tab allows you to organize repositories within each research group, and the Projects tab allows you to track student research progress.
 
 👩‍💻 Useful resources: Teamsタブでは、各研究グループ内でレポジトリを取りまとめることができるほか、Projectsタブでは学生の研究進捗状況を確認することができます。
+
+
+ArcGIS: https://kawamuraken.maps.arcgis.com/home/gallery.html?sortField=relevance&sortOrder=desc
